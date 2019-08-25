@@ -241,157 +241,6 @@
             </path>
             <path>
               <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Invocation" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Protocol" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="ProxyFactory" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="NettyClient" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="NettyClientHandler" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="NettyServerHandler" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="procotol" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServerHandler" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lynch" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="Provider" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="rpc" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -557,16 +406,15 @@
       <updated>1566573973774</updated>
       <workItem from="1566573975236" duration="9660000" />
       <workItem from="1566633951004" duration="5534000" />
-      <workItem from="1566661731678" duration="3184000" />
+      <workItem from="1566661731678" duration="3593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18378000" />
+    <option name="totallyTimeSpent" value="18787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49896908" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" sideWeight="0.5010309" side_tool="true" weight="0.2746781" />
